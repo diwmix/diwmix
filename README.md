@@ -1,5 +1,5 @@
-<img width="full" alt="image" src="https://github.com/user-attachments/assets/fd39c33b-ff69-4b3e-9831-6114076cc03b" />
-"  />
+<img width="100%" height="100px" alt="image" src="https://github.com/user-attachments/assets/fd39c33b-ff69-4b3e-9831-6114076cc03b" />
+ 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,mongodb,postgres,git,github,docker,linux" />
 </p>
