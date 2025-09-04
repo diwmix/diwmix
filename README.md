@@ -8,8 +8,8 @@
 ---
 
 ## 🌐 Соцмережі
-- 📩 Telegram: [@your_username](https://t.me/diwwmix)  
-- 💼 Instagram: [Your LinkedIn](https://instagram.com/diwmix)  
+- 📩 Telegram: [@diwwmix](https://t.me/diwwmix)  
+- 💼 Instagram: [@diwmix](https://instagram.com/diwmix)  
 
 ---
 
