@@ -1,4 +1,4 @@
-## 🛠 Технології та інструменти
+
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,mongodb,postgres,git,github,docker,linux" />
 </p>
